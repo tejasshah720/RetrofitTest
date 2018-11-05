@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">RetrofitTest</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="no_data_available">Data Not Available.</string>
+    <string name="title">Title</string>
+
+    <!--Online Offline messages-->
+    <string name="online_message">You are Online</string>
+    <string name="offline_message">You are Offline</string>
+
+    <string name="item_element_text">non esse culpa molestiae omnis sed optio</string>
+    <string name="no_internet_msg_text">No internet connection.</string>
+    <string name="lbl_btn_cancel">DISMISS</string>
+    <string name="count">count</string>
+</resources>
